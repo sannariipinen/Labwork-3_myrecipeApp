@@ -1,0 +1,7 @@
+{
+  "name": "myrecipeApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
